@@ -440,23 +440,10 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-added-my-latest-project-neurolob-a-generative-framework-for-financial-market-data",
+          title: 'Added my latest project, NeuroLOB, a generative framework for financial market data.',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
-            },},{id: "projects-music-transformer",
+          section: "News",},{id: "projects-music-transformer",
           title: 'Music Transformer',
           description: "Comparing Vanilla Attention vs. Relative Attention for MIDI generation.",
           section: "Projects",handler: () => {
@@ -466,6 +453,11 @@ ninja.data = [{
           description: "Generative Market Intelligence using Neural Point Processes &amp; Diffusion.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/neurolob/";
+            },},{id: "projects-",
+          title: '',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/rrrtemp/";
             },},{
         id: 'social-cv',
         title: 'CV',
