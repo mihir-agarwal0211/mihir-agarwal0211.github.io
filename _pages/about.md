@@ -11,7 +11,7 @@ profile:
   more_info: >
     <p>New York, NY</p>
     <p>ma4874@columbia.edu</p>
-    <p><i>Open to Full-time MLE Roles (2025)</i></p>
+    # <p><i>Open to Full-time MLE Roles (2025)</i></p>
 
 selected_papers: true 
 social: true 
