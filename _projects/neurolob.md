@@ -5,6 +5,7 @@ description: Generative Market Intelligence using Neural Point Processes & Diffu
 img: assets/img/neurolob_architecture.png
 importance: 1
 category: work
+selected: true
 ---
 
 <style>

@@ -2,9 +2,10 @@
 layout: page
 title: Music Transformer
 description: Comparing Vanilla Attention vs. Relative Attention for MIDI generation.
-img: assets/img/music_transformer.jpg
+img: assets/img/music_transformer.png
 importance: 1
 category: work
+selected: true
 related_publications: false
 ---
 
