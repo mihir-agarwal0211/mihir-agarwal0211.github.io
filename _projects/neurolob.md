@@ -1,7 +1,7 @@
 ---
 layout: page
 title: NeuroLOB
-description: Generative Market Intelligence using Neural Point Processes & Diffusion.
+description: 'Generative Market Intelligence using Neural Point Processes & Diffusion. <a href="/neurolob-demo/" target="_blank">Live Demo</a>'
 img: assets/img/neurolob_architecture.png
 importance: 1
 category: work
