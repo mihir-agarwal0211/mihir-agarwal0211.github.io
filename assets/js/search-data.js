@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-projects",
           title: "projects",
-          description: "A growing collection of your cool projects.",
+          description: "A growing collection of my cool projects.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -413,7 +413,7 @@ ninja.data = [{
               window.location.href = "/projects/neurolob/";
             },},{id: "projects-real-time-collaborative-code-editor",
           title: 'Real-Time Collaborative Code Editor',
-          description: "A low-latency distributed system for live coding interviews with AI assistance.",
+          description: "A low-latency distributed system for live coding interviews with AI assistance. Live Demo&#39;",
           section: "Projects",handler: () => {
               window.location.href = "/projects/real-time-editor/";
             },},{
