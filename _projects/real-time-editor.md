@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Real-Time Collaborative Code Editor
-description: A low-latency distributed system for live coding interviews with AI assistance.
+description: A low-latency distributed system for live coding interviews with AI assistance. <a href="/real-time-code-editor-demo/" target="_blank">Live Demo</a>'
 img: assets/img/real-time-code-editor.png
 importance: 1
 category: work
