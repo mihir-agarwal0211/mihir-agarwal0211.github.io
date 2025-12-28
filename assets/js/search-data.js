@@ -411,6 +411,11 @@ ninja.data = [{
           description: "Generative Market Intelligence using Neural Point Processes &amp; Diffusion. Live Demo",
           section: "Projects",handler: () => {
               window.location.href = "/projects/neurolob/";
+            },},{id: "projects-real-time-collaborative-code-editor",
+          title: 'Real-Time Collaborative Code Editor',
+          description: "A low-latency distributed system for live coding interviews with AI assistance.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/real-time-editor/";
             },},{
         id: 'social-cv',
         title: 'CV',
