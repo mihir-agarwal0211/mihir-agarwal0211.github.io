@@ -408,7 +408,7 @@ ninja.data = [{
               window.location.href = "/projects/music_transformer/";
             },},{id: "projects-neurolob",
           title: 'NeuroLOB',
-          description: "Generative Market Intelligence using Neural Point Processes &amp; Diffusion.",
+          description: "Generative Market Intelligence using Neural Point Processes &amp; Diffusion. Live Demo",
           section: "Projects",handler: () => {
               window.location.href = "/projects/neurolob/";
             },},{
