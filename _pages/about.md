@@ -29,22 +29,21 @@ latest_posts:
   scrollable: true
   limit: 3 
 ---
-
 Hello! Welcome to my personal archive. 👋
 
-I am a Master’s student at **Columbia University**, focusing on the intersection of **Deep Learning** and **Systems Engineering**. My goal is to build systems that are not only theoretically sound but computationally efficient at scale.
+I am a Master’s student at **[Columbia University](https://www.columbia.edu/)**, focusing on the intersection of **Deep Learning** and **Systems Engineering**. My goal is to build systems that are not only theoretically sound but computationally efficient at scale.
 
-My recent research centers on efficient generative modeling. Currently, I am developing neuro-symbolic frameworks that integrate **Neural Point Processes** with **Diffusion Models** to capture complex continuous-time dynamics.
+My recent research centers on efficient generative modeling. Currently, I am developing **[neuro-symbolic frameworks](/projects/neurolob/)** that integrate **Neural Point Processes** with **Diffusion Models** to capture complex continuous-time dynamics.
 
 ### Professional Background
-I approach research with a strong engineering discipline, honed during my three years as a **Software Engineer at Shell**. There, I engineered ML-driven automation pipelines and optimized large-scale testing systems, successfully reducing execution overhead by 35%.
+I approach research with a strong engineering discipline, honed during my three years as a **Software Engineer at [Shell](https://www.shell.com/)**. There, I engineered ML-driven automation pipelines and optimized large-scale testing systems, successfully reducing execution overhead by 35%.
 
-My research journey began at **ISEP (Paris)**, where I co-authored a [**Springer Journal**](https://doi.org/10.1007/s11042-023-16399-2) paper on resource management for distributed systems (Fog Computing). I also have experience deploying computer vision models for industrial drone inspections at **Vidrona (London)**.
+My research journey began at **[ISEP (Paris)](https://en.isep.fr/)**, where I co-authored a **[Springer Journal](https://doi.org/10.1007/s11042-023-16399-2)** paper on ML based resource management for distributed systems (Fog Computing). I also have experience deploying computer vision models for industrial drone inspections at **[Vidrona (London)](https://vidrona.com/)**.
 
 ### What's Next
 I am actively looking to apply my engineering experience to theoretical challenges. I am also open to industrial opportunities for **Summer 2026**.
 
-I am always open to discussing technical challenges or potential collaborations.
+I am always open to discussing technical challenges or potential [collaborations](mailto:ma4874@columbia.edu).
 
 {% if page.selected_projects %}
   <h2>Selected Projects</h2>
@@ -82,7 +81,7 @@ I am always open to discussing technical challenges or potential collaborations.
       </th>
       <td>
         <strong>Shell</strong> (Bengaluru, India)<br>
-        <em>Machine Learning Engineer</em> &nbsp; <span style="font-size: 0.85rem; color: #666;">(Aug 2022 - Aug 2025)</span>
+        <em>Software Engineer</em> &nbsp; <span style="font-size: 0.85rem; color: #666;">(Aug 2022 - Aug 2025)</span>
         <ul>
             <li>Built an AI-powered HR Chatbot (RAG, LangChain) saving $102k in annualized costs.</li>
             <li>Developed ML-driven test prioritization tools, reducing execution time by 35%.</li>
