@@ -2,11 +2,12 @@
 layout: page
 title: Real-Time Collaborative Code Editor
 description: A low-latency distributed system for live coding interviews with AI assistance.
-img: assets/img/editor_thumbnail.png
+img: assets/img/real-time-code-editor.png
 importance: 1
 category: work
 related_publications: false
 github: https://github.com/mihir-agarwal0211/Real-Time-Code-Editor
+selected: true
 ---
 
 <style>
@@ -68,9 +69,9 @@ document.addEventListener("DOMContentLoaded", function() {
 });
 </script>
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/editor_screenshot_1.png" title="Editor Interface" class="img-fluid rounded z-depth-1" %}
+<div class="row justify-content-center"> 
+    <div class="col-sm-6 mt-3 mt-md-0"> 
+        {% include figure.liquid loading="eager" path="assets/img/real-time-code-editor.png" title="Editor Interface" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
