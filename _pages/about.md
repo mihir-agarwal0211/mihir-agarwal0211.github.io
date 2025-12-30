@@ -33,7 +33,7 @@ Hello! Welcome to my personal archive. 👋
 
 I am a Master’s student at **[Columbia University](https://www.columbia.edu/)**, focusing on the intersection of **Deep Learning** and **Systems Engineering**. My goal is to build systems that are not only theoretically sound but computationally efficient at scale.
 
-My recent research centers on efficient generative modeling. Currently, I am developing **[neuro-symbolic frameworks](/projects/neurolob/)** that integrate **Neural Point Processes** with **Diffusion Models** to capture complex continuous-time dynamics.
+My recent research centers on architectural efficiency in generative modeling. I focus on optimizing attention mechanisms (e.g., Relative vs. Linear) to handle long-range dependencies and developing **[neuro-symbolic frameworks](/projects/neurolob/)** that integrate **Neural Point Processes** with **Diffusion Models** to capture complex continuous-time dynamics.
 
 ### Professional Background
 I approach research with a strong engineering discipline, honed during my three years as a **Software Engineer at [Shell](https://www.shell.com/)**. There, I engineered ML-driven automation pipelines and optimized large-scale testing systems, successfully reducing execution overhead by 35%.
