@@ -18,7 +18,7 @@ Congrats on your admit! Now comes the next part — deciding whether to actually
 
 You can work upto 20 hours/week at your university. 
 
-TA positions are easy to get, you can earn approx 3500$ per semester from a TA positions working 10 hours/week. The workload is not a lot and if you like the course, its fun as well. Pay varies by department, there are some departments which pay 7000$ as well. You can also do 2 TA positions in a semester. But I don't believe that its a good utilization of your time.
+TA positions are easy to get, you can earn approx 3500\$ per semester from a TA positions working 10 hours/week. The workload is not a lot and if you like the course, its fun as well. Pay varies by department, there are some departments which pay 7000\$ as well. You can also do 2 TA positions in a semester. But I don't believe that its a good utilization of your time.
 
 RA positions are competetive. Being a DS/CS student, core research happens in Engineering school with CS professors. I have not seen much people getting paid for research with CS professors. But if you can impress them enough, there is always a possibility. I recommend working on good foundational work 200%, even if you are not getting paid. As thats the single most thing that differentiates you, get you an expertise and you get to work closely with PhD and profssors dirctly. There are many other research happening at other sectors like medical, buisness or other branches ot columbia, where they have to get some CS/DS work done. You can get a paid research there, But the projects are mainly apllied and not core CS.
 ---
@@ -44,7 +44,7 @@ Awesome! Many of the professors are leading in their field and we can learn a lo
 
 **Q: How expensive is Columbia honestly?**
 
-Expensive. You have the tuition and college expenses at the Columbia website itself. For personal expenses, I would say that they would range around 1500-2000$ per month inclusing rent. The rent varies from 1000$ to 1600$. With its mean arounf 1400$ for a good apartment(no compromise on size, distance to university, amenities, etc.)
+Expensive. You have the tuition and college expenses at the Columbia website itself. For personal expenses, I would say that they would range around 1500-2000\$ per month inclusing rent. The rent varies from 1000\$ to 1600\$. With its mean arounf 1400\$ for a good apartment(no compromise on size, distance to university, amenities, etc.)
 
 
 **Q: Is financial aid available for MS students?**
