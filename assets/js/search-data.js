@@ -53,8 +53,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-added-my-latest-project-neurolob-a-generative-framework-for-financial-market-data",
-          title: 'Added my latest project, NeuroLOB, a generative framework for financial market data.',
+            },},{id: "news-presenting-a-poster-on-neurolob-at-the-aix-summit-east-2026-new-york-a-student-research-showcase-co-hosted-by-the-asian-american-scholar-forum-and-ai-nextgen-foundation",
+          title: 'Presenting a poster on NeuroLOB at the AIX Summit East 2026, New York,...',
           description: "",
           section: "News",},{id: "projects-music-transformer",
           title: 'Music Transformer',
