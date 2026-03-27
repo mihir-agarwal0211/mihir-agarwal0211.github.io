@@ -43,10 +43,79 @@ layout: default
     <!-- News -->
     {% if page.announcements and page.announcements.enabled %}
       <h2>
-        <a href="{{ '/news/' | relative_url }}" style="color: inherit">news</a>
+        <a href="{{ '/news/' | relative_url }}" style="color: inherit">News</a>
       </h2>
       {% include news.liquid limit=true %}
     {% endif %}
+
+    <!-- Selected projects -->
+    {% if page.selected_projects %}
+      <h2>Selected Projects</h2>
+      <div class="projects">
+        <div class="table-responsive">
+          <table class="table table-sm table-borderless">
+          {% for project in site.projects %}
+            {% if project.selected %}
+            <tr>
+              <th scope="row" style="width: 25%">
+                {% if project.img %}
+                  <img class="img-fluid z-depth-1 rounded" src="{{ project.img | relative_url }}" alt="{{ project.title }}">
+                {% endif %}
+              </th>
+              <td>
+                <a href="{{ project.url | relative_url }}">{{ project.title }}</a>
+                <br>
+                {{ project.description }}
+              </td>
+            </tr>
+            {% endif %}
+          {% endfor %}
+          </table>
+        </div>
+      </div>
+    {% endif %}
+
+    <!-- Experience -->
+    <h2>Experience</h2>
+    <div class="table-responsive">
+      <table class="table table-borderless table-sm">
+        <tr>
+          <th scope="row" style="width: 25%; vertical-align: middle; text-align: center;">
+            <img src="{{ '/assets/img/shell.png' | relative_url }}" style="max-width: 400px; width: 100%; height: auto; border-radius: 5px;">
+          </th>
+          <td>
+            <strong>Shell</strong> (Bengaluru, India)<br>
+            <em>Software Engineer</em> &nbsp; <span style="font-size: 0.85rem; color: #666;">(Aug 2022 - Aug 2025)</span>
+            <ul>
+              <li>Built an AI-powered HR Chatbot (RAG, LangChain) saving $102k in annualized costs.</li>
+              <li>Developed ML-driven test prioritization tools, reducing execution time by 35%.</li>
+              <li>Engineered robust, scalable software solutions for enterprise deployment.</li>
+            </ul>
+          </td>
+        </tr>
+        <tr>
+          <th scope="row" style="width: 25%; vertical-align: middle; text-align: center;">
+            <img src="{{ '/assets/img/Isep.png' | relative_url }}" style="max-width: 400px; width: 100%; height: auto; border-radius: 5px;">
+          </th>
+          <td>
+            <strong>ISEP</strong> (Paris)<br>
+            <em>Researcher</em> &nbsp; <span style="font-size: 0.85rem; color: #666;">(Jan 2022 - Aug 2022)</span>
+            <p>Co-authored Springer paper on ML-based resource management to optimize Fog Computing latency.</p>
+          </td>
+        </tr>
+        <tr>
+          <th scope="row" style="width: 15%; vertical-align: middle; text-align: center;">
+            <img src="{{ '/assets/img/Vidrona.png' | relative_url }}" style="max-width: 400px; width: 100%; height: auto; border-radius: 5px;">
+          </th>
+          <td>
+            <strong>Vidrona</strong> (London)<br>
+            <em>Machine Learning Intern</em> &nbsp; <span style="font-size: 0.85rem; color: #666;">(July 2020 - Aug 2022)</span>
+            <p>Deployed YOLO/Faster R-CNN models for automated inspections, saving 300+ manual hours weekly.</p>
+          </td>
+        </tr>
+      </table>
+    </div>
+    <hr>
 
     <!-- Latest posts -->
     {% if page.latest_posts and page.latest_posts.enabled %}
