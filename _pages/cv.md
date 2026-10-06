@@ -4,7 +4,7 @@ permalink: /cv/
 title: cv
 nav: true
 nav_order: 5
-cv_pdf: Mihir_Agarwal_Resume.pdf # you can also use external links here
+cv_pdf: Mihir_Agarwal.pdf # you can also use external links here
 description:
 toc:
   sidebar: left
