@@ -24,6 +24,19 @@
   },
   "work": [
     {
+      "name": "GE Vernova",
+      "position": "Agentic AI Research Intern",
+      "url": "https://www.gevernova.com/",
+      "startDate": "2026-05-01",
+      "endDate": "2026-08-01",
+      "location": "",
+      "summary": "Research on agent memory and knowledge graph retrieval for industrial documents.",
+      "highlights": [
+        "Researched agent memory and context management strategies.",
+        "Built a knowledge graph retrieval layer for structured reasoning over industrial documents."
+      ]
+    },
+    {
       "name": "Shell",
       "position": "Software Engineer",
       "url": "",

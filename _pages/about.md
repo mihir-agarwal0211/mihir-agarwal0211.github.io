@@ -4,8 +4,7 @@ title: about
 permalink: /
 subtitle: >
   MS Data Science @ <a href="https://www.columbia.edu">Columbia University</a> • 
-  Currently: <a href="https://www.gevernova.com/">GE Vernova</a> • 
-  Previously: <a href="https://www.shell.com">Shell</a> / <a href="https://www.linkedin.com/company/vidrona-ltd/">Vidrona</a> / <a href = "https://www.isep.fr/en/research-at-isep/">ISEP</a> • 
+  Previously: <a href="https://www.gevernova.com/">GE Vernova</a> / <a href="https://www.shell.com">Shell</a> / <a href="https://www.linkedin.com/company/vidrona-ltd/">Vidrona</a> / <a href = "https://www.isep.fr/en/research-at-isep/">ISEP</a> • 
   learn ⇄ implement ⇄ optimize
 profile:
   align: right
@@ -35,10 +34,10 @@ Hello! Welcome to my personal archive. 👋
 I am a Master's student at **[Columbia University](https://www.columbia.edu/)**, researching memory-augmented transformers and generative modeling. My goal is to build systems that are not only theoretically sound but computationally efficient at scale.
 
 
-My current work, advised by [Prof. Micah Goldblum](https://goldblum.github.io/) ([Columbia](https://www.columbia.edu/)) and [Prof. Pavel Izmailov](https://izmailovpavel.github.io/) ([Anthropic](https://www.anthropic.com/) / [NYU](https://www.nyu.edu/)), focuses on replacing RAG pipelines with **memory layers** that store knowledge directly inside transformer attention as learned key-value banks — removing the need for external retrieval entirely. I also built an **evaluation harness for autonomous database agents**, benchmarking frontier LLMs across concurrency control, access control, integrity rules, and query efficiency — dimensions most benchmarks ignore (NeurIPS 2026, under review). Beyond that, I worked on generative modeling, developing **[neuro-symbolic frameworks](/projects/neurolob/)** that integrate **Neural Point Processes** with **Diffusion Models** to capture complex continuous-time dynamics.
+My current work, advised by [Prof. Micah Goldblum](https://goldblum.github.io/) ([Columbia](https://www.columbia.edu/)) and [Prof. Pavel Izmailov](https://izmailovpavel.github.io/) ([Anthropic](https://www.anthropic.com/) / [NYU](https://www.nyu.edu/)), focuses on replacing RAG pipelines with **memory layers** that store knowledge directly inside transformer attention as learned key-value banks — removing the need for external retrieval entirely. I also built an **evaluation harness for autonomous database agents**, benchmarking frontier LLMs across concurrency control, access control, integrity rules, and query efficiency — dimensions most benchmarks ignore (**[Be CARE-ful with Text-to-SQL Benchmarks](https://neurips.cc/)**, accepted as a poster at the NeurIPS 2026 Evaluations & Datasets Track). Beyond that, I worked on generative modeling, developing **[neuro-symbolic frameworks](/projects/neurolob/)** that integrate **Neural Point Processes** with **Diffusion Models** to capture complex continuous-time dynamics.
 
 ### Professional Background
-I'm currently an **Agentic AI Research Intern at [GE Vernova](https://www.gevernova.com/)**, working on agent memory and context management strategies and a knowledge graph retrieval layer for structured reasoning over industrial documents.
+This summer (May–August 2026) I was an **Agentic AI Research Intern at [GE Vernova](https://www.gevernova.com/)**, where I worked on agent memory and context management strategies and a knowledge graph retrieval layer for structured reasoning over industrial documents.
 
 I approach research with a strong engineering discipline, honed during my three years as a **Machine Learning Engineer at [Shell](https://www.shell.com/)**. There, I engineered a production RAG pipeline serving 90,000+ employees and built ML-driven test prioritization tools, reducing execution overhead by 35%.
 
