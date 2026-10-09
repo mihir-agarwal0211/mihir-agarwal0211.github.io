@@ -56,7 +56,7 @@ ninja.data = [{
             },},{id: "news-presenting-a-poster-on-neurolob-at-the-aix-summit-east-2026-new-york-a-student-research-showcase-co-hosted-by-the-asian-american-scholar-forum-and-ai-nextgen-foundation",
           title: 'Presenting a poster on NeuroLOB at the AIX Summit East 2026, New York,...',
           description: "",
-          section: "News",},{id: "news-our-paper-be-care-ful-with-text-to-sql-benchmarks-was-accepted-as-a-poster-at-the-neurips-2026-evaluations-amp-amp-datasets-track-also-wrapped-up-my-summer-internship-as-an-agentic-ai-research-intern-at-ge-vernova",
+          section: "News",},{id: "news-our-paper-be-care-ful-with-text-to-sql-benchmarks-was-accepted-as-a-poster-at-the-neurips-2026-evaluations-amp-amp-datasets-track",
           title: 'Our paper Be CARE-ful with Text-to-SQL Benchmarks was accepted as a poster at...',
           description: "",
           section: "News",},{id: "projects-music-transformer",
