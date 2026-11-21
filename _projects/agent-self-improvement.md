@@ -7,7 +7,7 @@ importance: 1
 category: work
 related_publications: false
 github: https://github.com/mihir-agarwal0211/agent-self-improvement
-selected: true
+selected: false
 ---
 
 <style>
