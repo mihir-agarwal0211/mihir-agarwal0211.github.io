@@ -59,7 +59,12 @@ ninja.data = [{
           section: "News",},{id: "news-our-paper-be-care-ful-with-text-to-sql-benchmarks-was-accepted-as-a-poster-at-the-neurips-2026-evaluations-amp-amp-datasets-track",
           title: 'Our paper Be CARE-ful with Text-to-SQL Benchmarks was accepted as a poster at...',
           description: "",
-          section: "News",},{id: "projects-music-transformer",
+          section: "News",},{id: "projects-agent-self-improvement",
+          title: 'Agent Self-Improvement',
+          description: "A text-to-SQL agent that detects its own degradation and learns from its failures, no human in the loop.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/agent-self-improvement/";
+            },},{id: "projects-music-transformer",
           title: 'Music Transformer',
           description: "Comparing Vanilla Attention vs. Relative Attention for MIDI generation.",
           section: "Projects",handler: () => {
